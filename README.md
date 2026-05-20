@@ -1,2 +1,2 @@
-#Proyecto: Recetas TOP
-El sitio web constará de una página de inicio principal con enlaces a algunas recetas.
+Project: TOP Recipes
+The website will consist of a main homepage with links to some recipes.
